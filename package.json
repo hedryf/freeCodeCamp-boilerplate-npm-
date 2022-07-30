@@ -1,5 +1,8 @@
-{       “author”: “Hedry Fortoul”,
+{       
 	"name": "fcc-learn-npm-package-json",
+	"author": {
+                "name": "Hedry Fortoul"
+                  },
 	"dependencies": {
 		"express": "^4.14.0"
 	},
