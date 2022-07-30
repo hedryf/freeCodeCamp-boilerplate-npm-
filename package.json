@@ -2,8 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": {
             "name": "Hedry Fortoul",
-            "email": "hedryfortoul@hamalsolutions.com",
-            "url": "https://flaviocopes.com"
+            "email": "hedryfortoul@hamalsolutions.com"
                 },
 	"dependencies": {
 		"express": "^4.14.0"
